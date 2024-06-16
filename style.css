@@ -1,7 +1,24 @@
+* {box-sizing: border-box;}
 .code {
-    background-color: black;
-    width: auto;
-    height: 100px;
+    background-color: rgb(83, 124, 136);
+    border: 5px solid #0ef;
+    padding: 10px;
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+}
+.link {
+color: green;
+font-size: 30px;
+}
+.link:hover {
+    color: pink;
+}
+.link:visited {
+    color: red;
+}
+p {
+    font-size: 40px;
 }
 img {
     width: auto;
