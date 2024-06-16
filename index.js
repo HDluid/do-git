@@ -11,4 +11,4 @@
       document.body.appendChild(heading);
     </script>
   </body>
-</hmtml>
+</html>
