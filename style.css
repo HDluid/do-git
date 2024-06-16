@@ -32,6 +32,25 @@ h2 {font-size: 50px;
      color: red;}
 #titulo  { color: blue }
 .titulo2 { color: purple}
-li {font-weight: bold;
-     color:rgb(69, 71, 180);
-     font-size: 30px;}
+li {
+    font-weight: bold;
+    color:rgb(69, 71, 180);
+    font-size: 30px;}
+     p {
+        color:#00f;
+        font-size: 40px;
+        font-weight: bold;
+        font-family: serif;
+        text-align: justify;
+        text-transform:none;
+        letter-spacing: normal;
+        word-spacing:normal;
+        line-height: normal;
+        text-shadow: 2px 2px 2px rgb(107, 101, 101)
+     }
+     a {
+        text-decoration: none;
+     }
+      a:hover {
+        text-decoration: underline;
+      }
